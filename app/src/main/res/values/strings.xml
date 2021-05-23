@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Register App</string>
+    <string name="etName">Name</string>
+    <string name="etEmail">Email</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnRead">Read</string>
+    <string name="btnClear">Clear</string>
+</resources>
